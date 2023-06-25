@@ -1,0 +1,9 @@
+<mvc:View controllerName="jmcoronel.invoices.controller.MainView01"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content> 
+          <Text id="txt01" text="Prueba Facturas JMCoronel"></Text>
+        </content>
+    </Page>
+</mvc:View>
